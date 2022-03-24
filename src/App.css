@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+.Box {
+  border: 5px green solid;
+}
+
 button {
   margin: 20px;
   border: green 3px solid;
